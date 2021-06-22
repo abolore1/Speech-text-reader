@@ -15,7 +15,7 @@ const data = [
       text: "I'm Hungry"
     },
     {
-      image: './img/tired.jpg',
+      image: './tired.jpg',
       text: "I'm Tired"
     },
     {
