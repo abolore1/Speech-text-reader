@@ -19,11 +19,11 @@ const data = [
       text: "I'm Tired"
     },
     {
-      image: './img/hurt.jpg',
+      image: './hurt.jpg',
       text: "I'm Hurt"
     },
     {
-      image: './img/happy.jpg',
+      image: './happy.jpg',
       text: "I'm Happy"
     },
     {
@@ -31,27 +31,27 @@ const data = [
       text: "I'm Angry"
     },
     {
-      image: './img/sad.jpg',
+      image: './sad.jpg',
       text: "I'm Sad"
     },
     {
-      image: './img/scared.jpg',
+      image: './scared.jpg',
       text: "I'm Scared"
     },
     {
-      image: './img/outside.jpg',
+      image: './outside.jpg',
       text: 'I Want To Go Outside'
     },
     {
-      image: './img/home.jpg',
+      image: './home.jpg',
       text: 'I Want To Go Home'
     },
     {
-      image: './img/school.jpg',
+      image: './school.jpg',
       text: 'I Want To Go To School'
     },
     {
-      image: './img/grandma.jpg',
+      image: './grandma.jpg',
       text: 'I Want To Go To Grandmas'
     }
   ];
