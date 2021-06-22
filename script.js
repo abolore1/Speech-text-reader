@@ -7,11 +7,11 @@ const closeBtn = document.getElementById('close');
 
 const data = [
     {
-      image: './img/drink.jpg',
+      image: 'drink.jpg',
       text: "I'm Thirsty"
     },
     {
-      image: './img/food.jpg',
+      image: './food.jpg',
       text: "I'm Hungry"
     },
     {
