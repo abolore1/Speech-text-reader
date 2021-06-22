@@ -27,7 +27,7 @@ const data = [
       text: "I'm Happy"
     },
     {
-      image: './img/angry.jpg',
+      image: './angry.jpg',
       text: "I'm Angry"
     },
     {
